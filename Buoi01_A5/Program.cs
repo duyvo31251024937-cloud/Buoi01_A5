@@ -1,4 +1,9 @@
 ﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+/*
+* Bài: Buoi01_A5 - Thẻ giới thiệu bản thân
+* Sinh viên: Võ Ngọc Trúc Duy - MSSV: 31251024937
+* Ngày: 29/01/2007
+*/
 // NHẬP (tạm gán sẵn)
 double a = 5, b = 3;
 // XỬ LÝ
